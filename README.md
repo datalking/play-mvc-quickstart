@@ -5,7 +5,7 @@
 ```sh
  git clone https://github.com/datalking/play-mvc-quickstart.git
  cd play-mvc-quickstart/
-mvn clean install
+ mvn clean install
 ```
 
 ## demo
